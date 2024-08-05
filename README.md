@@ -1,4 +1,4 @@
-<h1 align="left">Projet Swift / Objectif savoir exploiter une API, utilisation des modifier, des vues container, des closures, des observablesObjects et des property wrapper @State et @Binding</h1>
+<h1 align="left">Projet iOS / Objectif savoir exploiter une API, utilisation des modifier, des vues container, des closures, des observablesObjects et des property wrapper @State et @Binding</h1>
 
 <h3 align="left">Installation : cloner le projet puis lancer un IDE X code depuis un MAC et Run l'application</h3>
 
