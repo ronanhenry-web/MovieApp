@@ -7,7 +7,7 @@ Objectif savoir exploiter une API, utilisation des modifier, des vues container,
 Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
 
 - Cloner le projet
-- Lancer un IDE X code depuis un MAC et Run l'application
+- Avoir un MAC pour Run l'application
 
 ## Sources & Outils
 
