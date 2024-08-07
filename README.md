@@ -1,8 +1,14 @@
-<h1 align="left">Projet iOS / Objectif savoir exploiter une API, utilisation des modifier, des vues container, des closures, des observablesObjects et des property wrapper @State et @Binding</h1>
+# Projet iOS
 
-<h3 align="left">Installation : cloner le projet puis lancer un IDE X code depuis un MAC et Run l'application</h3>
+Objectif savoir exploiter une API, utilisation des modifier, des vues container, des closures, des observablesObjects et des property wrapper @State et @Binding
 
-<h3 align="left">Langage :</h3>
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-</p>
+## Démarrer
+
+Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+
+- Cloner le projet
+- Lancer un IDE X code depuis un MAC et Run l'application
+
+## Sources & Outils
+
+- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
