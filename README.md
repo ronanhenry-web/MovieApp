@@ -1,4 +1,4 @@
-# Projet iOS
+# Projet Movie App
 
 Objectif savoir exploiter une API, utilisation des modifier, des vues container, des closures, des observablesObjects et des property wrapper @State et @Binding
 
