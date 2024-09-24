@@ -1,14 +1,14 @@
-# Projet Movie App
+# Movie App Project
 
-Objectif savoir exploiter une API, utilisation des modifier, des vues container, des closures, des observablesObjects et des property wrapper @State et @Binding
+Goal: Know how to utilize an API, use modifiers, container views, closures, ObservableObjects, and property wrappers @State and @Binding
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+The project was created in IntelliJ. To start it, follow these steps :
 
-- Cloner le projet
-- Avoir un MAC pour Run l'application
+- Clone the project
+- Have a Mac to run the application
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
